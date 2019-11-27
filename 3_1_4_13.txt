@@ -1,0 +1,9 @@
+Krok 1: []
+Krok 2: ['John Lennon', 'Paul McCartney', 'George Harrison']
+Dodaj muzyka (0 by zakończyć): Stu Sutcliffe
+Dodaj muzyka (0 by zakończyć): Pete Best
+Dodaj muzyka (0 by zakończyć): 0
+Krok 3: ['John Lennon', 'Paul McCartney', 'George Harrison', 'Stu Sutcliffe', 'Pete Best']
+Krok 4: ['John Lennon', 'Paul McCartney', 'George Harrison']
+Krok 5: ['Ringo Starr', 'John Lennon', 'Paul McCartney', 'George Harrison']
+The Fab 4
