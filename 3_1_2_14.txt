@@ -1,0 +1,17 @@
+Wprowadź liczbę bloków: 6
+Wysokość piramidy wynosi: 3
+
++ + +
+
+Wprowadź liczbę bloków: 20
+Wysokość piramidy wynosi: 5
+
++ + +
+
+Wprowadź liczbę bloków: 1000
+Wysokość piramidy wynosi: 44
+
++ + +
+
+Wprowadź liczbę bloków: 2
+Wysokość piramidy wynosi: 1
