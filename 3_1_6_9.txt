@@ -1,0 +1,4 @@
+Pierwotna lista: 
+[1, 2, 4, 4, 1, 4, 2, 6, 2, 9]
+Lista tylko z unikalnymi elementami:
+[1, 2, 4, 6, 9]
