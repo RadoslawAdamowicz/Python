@@ -1,0 +1,7 @@
+Podaj wysokosc piramidy = 5
+
+x
+xxx
+xxxxx
+xxxxxxx
+xxxxxxxxx
